@@ -1,0 +1,2 @@
+1. first run ".main_web_scrap.py"...it will collect all the URL
+2. then run "main_details.py" ...it will visit all the url and get the data.
